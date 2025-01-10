@@ -1,0 +1,87 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "filePrefix": "{{year}}-{{month:02}}-15/{{seoTitle}}",
+      "fileType": "md",
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Ring",
+          "name": "ring",
+          "type": "choice",
+          "description": "The ring this item belongs to.",
+          "choices": [
+            {
+              "id":"adopt",
+              "title": "Adopt"
+            },{
+              "id": "trial",
+              "title": "Trial"
+            },{
+              "id": "assess",
+              "title": "Assess"
+            },{
+              "id": "hold",
+              "title": "Hold"
+            }
+          ]
+        },
+        {
+          "title": "Quadrant",
+          "name": "quadrant",
+          "type": "choice",
+          "description": "The quadrant this item belongs to.",
+          "choices": [{
+            "id": "no-code-platform-and-builders",
+            "title": "No Code Platform & Builders"
+          },{
+            "id": "low-code-platforms-and-rapid-applications-development",
+            "title": "Low Code Platforms & Rapid Applications Development"
+          },{
+            "id": "low-code-related-opensource-solutions",
+            "title": "Low code related open-source solutions (CMS, Frameworks, ERP, etc.)"
+          },{
+            "id": "automation-and-integration",
+            "title": "Automation & Integration"
+          }]
+        },
+        {
+          "title": "Featured",
+          "name": "featured",
+          "type": "boolean",
+          "description": "Uncheck if this item should be hidden on the radar quadrant but still visible in the overview.",
+          "default": true
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags",
+          "description": "The tags associated with this item."
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "other",
+  "frontMatter.content.publicFolder": {
+    "path": "public",
+    "relative": true
+  },
+  "frontMatter.media.supportedMimeTypes": [
+    "image/*"
+  ],
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "Radar Element",
+      "path": "[[workspace]]/data/radar"
+    }
+  ],
+  "frontMatter.git.enabled": true
+}
