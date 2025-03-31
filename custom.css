@@ -1,0 +1,26 @@
+/* Use this file to optionally override global css styles and use with caution. */
+/* See README.md for hints and examples: https://github.com/AOEpeople/aoe_technology_radar/ */
+
+a[class^="Tags_tag"]{
+    background: var(--background) !important;
+    color: var(--tag) !important;
+}
+a[class^="Tags_tag"]:hover {
+    background: var(--tag) !important;
+    color: var(--background) !important;
+}
+[class^="ItemDetail_ring"],
+[class^="RingList_badge"]{
+    color: var(--background) !important;
+}
+[class^="ItemList_link"]{
+    border: 1px solid var(--background);
+}
+[class^="ItemList_link"]:hover{
+    background: var(--background) !important;
+    color: var(--tag) !important;
+    border-color: 1px solid var(--tag);
+}
+[class^="Radar_tooltip"] {
+    color: var(--background) !important;
+}

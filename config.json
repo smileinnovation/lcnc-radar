@@ -16,39 +16,39 @@
         "list"
     ],
     "colors": {
-        "foreground": "#fcf2e6",
-        "background": "#113521",
-        "highlight": "#d4a373",
+        "foreground": "#1a161c",
+        "background": "#fff",
+        "highlight": "#ff8054",
         "content": "#fff",
-        "text": "#575757",
-        "link": "#bc6c25",
-        "border": "rgba(255, 255, 255, 0.1)",
-        "tag": "rgba(255, 255, 255, 0.1)"
+        "text": "#1a161c",
+        "link": "#3a72ff",
+        "border": "#e1e1e1",
+        "tag": "#3a72ff"
     },
     "quadrants": [
         {
             "id": "no-code-platform-and-builders",
             "title": "No Code Platform & Builders",
             "description": "Pure no-code solutions, where one can build applications or websites without writing (or almost without writing) code.",
-            "color": "#a3b18a"
+            "color": "#3a72ff"
         },
         {
             "id": "low-code-platforms-and-rapid-applications-development",
             "title": "Low Code Platforms & Rapid Applications Development",
             "description": "Platforms that offer a \"visual\" or \"semi-visual\" experience, but allow for the injection of custom code for more advanced cases.",
-            "color": "#588157"
+            "color": "#6b85fa"
         },
         {
             "id": "low-code-related-opensource-solutions",
             "title": "Low code related open-source solutions (CMS, Frameworks, ERP, etc.)",
             "description": "Open-source building blocks that simplify or accelerate development, sometimes considered as \"low-code\" since you don't start from scratch.",
-            "color": "#3f633e"
+            "color": "#8399fb"
         },
         {
             "id": "automation-and-integration",
             "title": "Automation & Integration",
             "description": "Focus on vertical solutions that automate or connect services, often through visual flows (no-code) or minimal configuration.",
-            "color": "#40713f"
+            "color": "#9caefc"
         }
     ],
     "rings": [
@@ -56,7 +56,7 @@
             "id": "adopt",
             "title": "Adopt",
             "description": "",
-            "color": "#588157",
+            "color": "#26bc94",
             "radius": 0.5,
             "strokeWidth": 5
         },
@@ -64,7 +64,7 @@
             "id": "trial",
             "title": "Trial",
             "description": "",
-            "color": "#457b9d",
+            "color": "#3a72ff",
             "radius": 0.69,
             "strokeWidth": 3
         },
@@ -72,7 +72,7 @@
             "id": "assess",
             "title": "Assess",
             "description": "",
-            "color": "#bc6c25",
+            "color": "#ffc932",
             "radius": 0.85,
             "strokeWidth": 2
         },
@@ -80,7 +80,7 @@
             "id": "hold",
             "title": "Hold",
             "description": "",
-            "color": "#d62828",
+            "color": "#ff0844",
             "radius": 1,
             "strokeWidth": 0.75
         }

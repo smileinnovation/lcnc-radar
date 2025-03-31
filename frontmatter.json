@@ -80,7 +80,7 @@
   "frontMatter.content.pageFolders": [
     {
       "title": "Radar Element",
-      "path": "[[workspace]]/data/radar"
+      "path": "[[workspace]]/radar"
     }
   ],
   "frontMatter.git.enabled": true
