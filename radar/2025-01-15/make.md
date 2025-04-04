@@ -3,28 +3,29 @@ title: Make
 ring: hold
 quadrant: automation-and-integration
 tags:
-    - Backend
-    - AI
-    - Low Code
-    - Automate
-    - Startups friendly
-    - 🧑‍💻 application métier
-    - 🏭 automatisation de workflow
-    - 👷 prototypage rapide
-    - 🛒 e-commerce
-    - ☁️ Cloud
-    - 🔐 proprietary
-    - 🔁 subscription
-    - Client Setup
-    - Lock-in (strong - can't exit the platform)
+  - Backend
+  - AI
+  - Startups friendly
+  - Business App
+  - Workflow automation
+  - Fast prototyping
+  - E-commerce
 ---
 
-La solution propose une intégration avec des systèmes tiers : Yes.
+Make is a low-code / no-code solution designed to accelerate application development or manage content efficiently. It enables both technical and business teams to design, integrate, and deploy digital solutions with modular capabilities.
 
-Elle offre un système de plugins : Yes.
+**Strengths**: Super user friendly, easy to use for neophyt user, lot of support ressources.
 
-Possibilité d'ajouter du code personnalisé : Possible.
+**Weaknesses**: Pricing model by run of a task make it quite pricy compared to Zapier.
 
-**Points forts** : Super user friendly, easy to use for neophyt user, lot of support ressources.
-
-**Points faibles** : Pricing model by run of a task make it quite pricy compared to Zapier.
+| Criterion | Detail |
+|----------|--------|
+| Third-party system integration | Yes |
+| Plugin support | Yes |
+| Custom code support | Possible |
+| Smile target use case | 🧑‍💻 application métier, 🏭 automatisation de workflow, 👷 prototypage rapide, 🛒 e-commerce |
+| Deployment (cloud/on-premises) | ☁️ Cloud |
+| License | 🔐 proprietary |
+| Business model | 🔁 subscription |
+| Integration opportunity | Client Setup |
+| Lock-in level | Strong - Can't exit the platform |

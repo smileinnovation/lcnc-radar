@@ -3,26 +3,26 @@ title: Weweb
 ring: assess
 quadrant: low-code-platforms-and-rapid-applications-development
 tags:
-    - Frontend
-    - Low Code
-    - Business App
-    - Automate
-    - 🧑‍💻 application métier
-    - 🖥️ site vitrine
-    - 👷 prototypage rapide
-    - ☁️ Cloud
-    - 🔐 proprietary
-    - 🔁 subscription
-    - Client Setup
-    - Lock-in (strong - can't exit the platform)
+  - Frontend
+  - Business App
+  - Website
+  - Fast prototyping
 ---
 
-La solution propose une intégration avec des systèmes tiers : Yes, through API.
+Weweb is a low-code / no-code solution designed to accelerate application development or manage content efficiently. It enables both technical and business teams to design, integrate, and deploy digital solutions with modular capabilities.
 
-Elle offre un système de plugins : Some native integrations.
+**Strengths**: Used by other big consulting firms and solid references. The solution seems quite accessible for people with just a few background of dev.
 
-Possibilité d'ajouter du code personnalisé : Possible.
+**Weaknesses**: Strong vendor lockin
 
-**Points forts** : Used by other big consulting firms and solid references. The solution seems quite accessible for people with just a few background of dev.
-
-**Points faibles** : Strong vendor lockin
+| Criterion | Detail |
+|----------|--------|
+| Third-party system integration | Yes, through API |
+| Plugin support | Some native integrations |
+| Custom code support | Possible |
+| Smile target use case | 🧑‍💻 application métier, 🖥️ site vitrine, 👷 prototypage rapide |
+| Deployment (cloud/on-premises) | ☁️ Cloud |
+| License | 🔐 proprietary |
+| Business model | 🔁 subscription |
+| Integration opportunity | Client Setup |
+| Lock-in level | Strong - Can't exit the platform |

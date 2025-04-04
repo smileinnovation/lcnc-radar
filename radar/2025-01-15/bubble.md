@@ -3,30 +3,30 @@ title: Bubble
 ring: assess
 quadrant: no-code-platform-and-builders
 tags:
-    - Frontend
-    - Backend
-    - AI
-    - Low Code
-    - Mobile App
-    - Business App
-    - Automate
-    - Startups friendly
-    - 🧑‍💻 application métier
-    - 🏭 automatisation de workflow
-    - 👷 prototypage rapide
-    - ☁️ Cloud
-    - 🔐 proprietary
-    - 🔁 subscription
-    - Both model
-    - Lock-in (strong - can't exit the platform)
+  - Frontend
+  - Backend
+  - AI
+  - Mobile App
+  - Business App
+  - Startups friendly
+  - Workflow automation
+  - Fast prototyping
 ---
 
-La solution propose une intégration avec des systèmes tiers : Yes.
+Bubble is a low-code / no-code solution designed to accelerate application development or manage content efficiently. It enables both technical and business teams to design, integrate, and deploy digital solutions with modular capabilities.
 
-Elle offre un système de plugins : Yes.
+**Strengths**: Agency account existing, with 50k USD and up client topology. A good alternative between a glideapp and a Retool. Can be used without any prio knowledge or as a developer.
 
-Possibilité d'ajouter du code personnalisé : Possible.
+**Weaknesses**: Vendor lockin. Based in USA only.
 
-**Points forts** : Agency account existing, with 50k USD and up client topology. A good alternative between a glideapp and a Retool. Can be used without any prio knowledge or as a developer.
-
-**Points faibles** : Vendor lockin. Based in USA only.
+| Criterion | Detail |
+|----------|--------|
+| Third-party system integration | Yes |
+| Plugin support | Yes |
+| Custom code support | Possible |
+| Smile target use case | 🧑‍💻 application métier, 🏭 automatisation de workflow, 👷 prototypage rapide |
+| Deployment (cloud/on-premises) | ☁️ Cloud |
+| License | 🔐 proprietary |
+| Business model | 🔁 subscription |
+| Integration opportunity | Both model |
+| Lock-in level | Strong - Can't exit the platform |

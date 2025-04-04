@@ -3,27 +3,27 @@ title: Xano
 ring: hold
 quadrant: automation-and-integration
 tags:
-    - Backend
-    - Headless
-    - Low Code
-    - Business App
-    - Automate
-    - 🧑‍💻 application métier
-    - 🏭 automatisation de workflow
-    - 👷 prototypage rapide
-    - ☁️ Cloud
-    - 🔐 proprietary
-    - 🔁 subscription
-    - Client Setup
-    - Lock-in (high - can backup but limited reusability)
+  - Backend
+  - Headless
+  - Business App
+  - Workflow automation
+  - Fast prototyping
 ---
 
-La solution propose une intégration avec des systèmes tiers : Yes, through API.
+Xano is a low-code / no-code solution designed to accelerate application development or manage content efficiently. It enables both technical and business teams to design, integrate, and deploy digital solutions with modular capabilities.
 
-Elle offre un système de plugins : Couple of built-in integrations.
+**Strengths**: Super easy to use.
 
-Possibilité d'ajouter du code personnalisé : Possible.
+**Weaknesses**: Only focussed on the backend and business process automation.
 
-**Points forts** : Super easy to use.
-
-**Points faibles** : Only focussed on the backend and business process automation.
+| Criterion | Detail |
+|----------|--------|
+| Third-party system integration | Yes, through API |
+| Plugin support | Couple of built-in integrations |
+| Custom code support | Possible |
+| Smile target use case | 🧑‍💻 application métier, 🏭 automatisation de workflow, 👷 prototypage rapide |
+| Deployment (cloud/on-premises) | ☁️ Cloud |
+| License | 🔐 proprietary |
+| Business model | 🔁 subscription |
+| Integration opportunity | Client Setup |
+| Lock-in level | High - Can backup but limited reusability |

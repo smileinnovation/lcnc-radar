@@ -3,21 +3,23 @@ title: MuleSoft
 ring: hold
 quadrant: automation-and-integration
 tags:
-    - Automate
-    - 🏭 automatisation de workflow
-    - ☁️ Cloud
-    - 🔐 proprietary
-    - 🔁 subscription
-    - Client Setup
-    - Lock-in (strong - can't exit the platform)
+  - Workflow automation
 ---
 
-La solution propose une intégration avec des systèmes tiers : Yes.
+MuleSoft is a low-code / no-code solution designed to accelerate application development or manage content efficiently. It enables both technical and business teams to design, integrate, and deploy digital solutions with modular capabilities.
 
-Elle offre un système de plugins : some native integrations.
+**Strengths**: Seems to be really easy to compose automation and has a dedicated app (easier to deploy at scale on big corpo)
 
-Possibilité d'ajouter du code personnalisé : Unkown.
+**Weaknesses**: Salesforce ecosystem. No information about the pricing. Client has to be installer, no sign of web interface.
 
-**Points forts** : Seems to be really easy to compose automation and has a dedicated app (easier to deploy at scale on big corpo)
-
-**Points faibles** : Salesforce ecosystem. No information about the pricing. Client has to be installer, no sign of web interface.
+| Criterion | Detail |
+|----------|--------|
+| Third-party system integration | Yes |
+| Plugin support | some native integrations |
+| Custom code support | Unkown |
+| Smile target use case | 🏭 automatisation de workflow |
+| Deployment (cloud/on-premises) | ☁️ Cloud |
+| License | 🔐 proprietary |
+| Business model | 🔁 subscription |
+| Integration opportunity | Client Setup |
+| Lock-in level | Strong - Can't exit the platform |
