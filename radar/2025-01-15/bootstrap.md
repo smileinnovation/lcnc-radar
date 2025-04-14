@@ -1,7 +1,7 @@
 ---
 title: Bootstrap
 ring: adopt
-quadrant: automation-and-integration
+quadrant: low-code-related-opensource-solutions
 tags:
   - Frontend
   - open-source
