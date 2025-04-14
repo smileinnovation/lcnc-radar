@@ -1,6 +1,6 @@
 {
-    "basePath": "/",
-    "baseUrl": "https://tech.smile.eu/lcnc-radar/",
+    "basePath": "/lcnc-radar",
+    "baseUrl": "https://smileinnovation.github.io/lcnc-radar/",
     "editUrl": "https://github.dev/AOEpeople/techradar/blob/main/radar/{release}/{id}.md",
     "logoFile": "logo.svg",
     "jsFile": "",
